@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node dist/main.js ./user.js ./dist"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.22"
+  }
+}
